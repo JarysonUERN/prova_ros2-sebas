@@ -1,0 +1,12 @@
+# Meta: localizacao de destino e velocidades de deslocamento
+float64 latitude
+float64 longitude
+float64 velocidade_latitudinal
+float64 velocidade_longitudinal
+---
+# Resposta final: distancia total percorrida
+float64 distancia_percorrida
+---
+# Feedback: localizacao atual do robo
+float64 latitude_atual
+float64 longitude_atual

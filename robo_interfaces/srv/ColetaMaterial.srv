@@ -1,0 +1,5 @@
+# Requisicao: profundidade da coleta (em metros)
+float64 profundidade
+---
+# Resposta: true = coleta bem sucedida, false = falha
+bool sucesso
